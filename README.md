@@ -1,4 +1,4 @@
-<h1 align="center">Welcome REACT-PROHUNT 👋</h1>
+<h1 align="center">Welcome to REACT-PROHUNT 👋</h1>
 
 <p align="center">
   <img alt="React-Prohunt" src=".github/header_prohunt.png" width="100%">
