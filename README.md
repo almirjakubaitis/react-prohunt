@@ -19,7 +19,7 @@ npm install
 Enter to individual folder and:
 
 ```sh
-npm run dev
+npm start or npm run dev
 ```
 
 ## 💻 About the Project
