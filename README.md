@@ -26,7 +26,7 @@ npm start or npm run dev
 <h2>A very simple ReactJS APP with frontend and backend to mimetize Product Hunt site.</h2>
 
  ## 💻 Technologies
-<h4 align="center">
+<h4>
    - REACT JS, NODE.js
 </h4>
 
