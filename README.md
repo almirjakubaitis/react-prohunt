@@ -27,7 +27,7 @@ npm start or npm run dev
 
  ## 💻 Technologies
 <h4 align="center">
-   - CSS, Flexbox
+   - REACT JS, NODE.js
 </h4>
 
 ## :memo: License
