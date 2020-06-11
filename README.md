@@ -27,8 +27,9 @@ npm start or npm run dev
 
  ## 💻 Technologies
 <h4>
-   - REACT JS, NODE.js
+   - REACT JS, NODE.js, CSS, DOCKER
 </h4>
+
 
 ## :memo: License
 
